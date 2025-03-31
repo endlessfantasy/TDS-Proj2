@@ -5,7 +5,6 @@ function_definitions_objects_llm = {
         "parameters": {
             "type": "object",
             "properties": {
-                "text": {}
             },
             "required": []
         }
